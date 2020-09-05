@@ -7,8 +7,6 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
-
-  
   "dependencies": {
     "apollo-cache-inmemory": "^1.6.6",
     "apollo-client": "^2.6.10",
@@ -23,7 +21,7 @@
     "sass": "^1.26.10",
     "sass-loader": "^9.0.2",
     "vue": "^2.6.11",
-    "vue-apollo": "^3.0.3",
+    "vue-apollo": "^3.0.4",
     "vue-markdown-it": "^0.9.4",
     "vue-router": "^3.3.4",
     "webpack": "^4.36.0"
